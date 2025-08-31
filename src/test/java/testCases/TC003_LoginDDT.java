@@ -21,7 +21,7 @@ public class TC003_LoginDDT extends BaseClass {
 	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class,groups="Datadriven")// getting data provider from different class
 	public void verify_loginDDT(String email, String pwd, String exp) throws InterruptedException
 	{
-		logger.info("-------------Starting TC_003_LoginDDT ------------");
+		logger.info("-------------Starting TC003_LoginDDT ------------");
 		
 		try
 		{
@@ -69,7 +69,7 @@ public class TC003_LoginDDT extends BaseClass {
 			Assert.fail();
 		}
 		Thread.sleep(4000);
-		logger.info("--------- Finished TC_003_LoginDDT ---------------------");
+		logger.info("--------- Finished TC003_LoginDDT ---------------------");
 		
 	}
 	

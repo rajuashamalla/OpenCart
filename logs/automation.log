@@ -1,15 +1,37 @@
-2025-08-29 05:46:08 INFO  TC003_LoginDDT:24 - -------------stating TC_003_LoginDDT ------------
-2025-08-29 05:46:14 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:46:14 INFO  TC003_LoginDDT:24 - -------------stating TC_003_LoginDDT ------------
-2025-08-29 05:46:29 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:46:29 INFO  TC003_LoginDDT:24 - -------------stating TC_003_LoginDDT ------------
-2025-08-29 05:46:44 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:46:44 INFO  TC003_LoginDDT:24 - -------------stating TC_003_LoginDDT ------------
-2025-08-29 05:46:49 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:48:23 INFO  TC003_LoginDDT:24 - -------------Starting TC_003_LoginDDT ------------
-2025-08-29 05:48:28 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:48:28 INFO  TC003_LoginDDT:24 - -------------Starting TC_003_LoginDDT ------------
-2025-08-29 05:48:38 INFO  TC003_LoginDDT:24 - -------------Starting TC_003_LoginDDT ------------
-2025-08-29 05:48:53 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
-2025-08-29 05:48:53 INFO  TC003_LoginDDT:24 - -------------Starting TC_003_LoginDDT ------------
-2025-08-29 05:48:59 INFO  TC003_LoginDDT:72 - --------- Finished TC_003_LoginDDT ---------------------
+2025-08-31 10:29:21 INFO  TC002_LoginTest:16 - ------------Starting TC_002_LoginTest -----------
+2025-08-31 10:29:23 INFO  TC002_LoginTest:41 - --------------Finished TC_002_LoginTest----------
+2025-08-31 10:32:13 INFO  TC001_AccountRegistrationTest:21 - --------started TC001_AccountRegistrationTest----------------
+2025-08-31 10:32:13 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-08-31 10:32:14 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-08-31 10:32:14 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-08-31 10:32:18 INFO  TC001_AccountRegistrationTest:45 - Validating expected message...
+2025-08-31 10:32:18 INFO  TC001_AccountRegistrationTest:56 - -------------finished TC001_AccountRegistrationTest---------
+2025-08-31 10:32:19 INFO  TC002_LoginTest:16 - ------------Starting TC_002_LoginTest -----------
+2025-08-31 10:36:15 INFO  TC001_AccountRegistrationTest:21 - --------started TC001_AccountRegistrationTest----------------
+2025-08-31 10:36:15 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-08-31 10:36:16 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-08-31 10:36:16 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-08-31 10:36:19 INFO  TC001_AccountRegistrationTest:45 - Validating expected message...
+2025-08-31 10:36:19 INFO  TC001_AccountRegistrationTest:56 - -------------finished TC001_AccountRegistrationTest---------
+2025-08-31 10:36:21 INFO  TC002_LoginTest:16 - ------------Starting TC_002_LoginTest -----------
+2025-08-31 11:42:38 INFO  TC003_LoginDDT:24 - -------------Starting TC003_LoginDDT ------------
+2025-08-31 11:42:43 INFO  TC003_LoginDDT:72 - --------- Finished TC003_LoginDDT ---------------------
+2025-08-31 11:42:44 INFO  TC003_LoginDDT:24 - -------------Starting TC003_LoginDDT ------------
+2025-08-31 11:42:58 INFO  TC003_LoginDDT:72 - --------- Finished TC003_LoginDDT ---------------------
+2025-08-31 11:42:58 INFO  TC003_LoginDDT:24 - -------------Starting TC003_LoginDDT ------------
+2025-08-31 11:43:46 INFO  TC001_AccountRegistrationTest:21 - --------started TC001_AccountRegistrationTest----------------
+2025-08-31 11:43:46 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-08-31 11:43:47 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-08-31 11:43:47 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-08-31 11:43:50 INFO  TC001_AccountRegistrationTest:45 - Validating expected message...
+2025-08-31 11:43:50 INFO  TC001_AccountRegistrationTest:56 - -------------finished TC001_AccountRegistrationTest---------
+2025-08-31 11:43:52 INFO  TC002_LoginTest:16 - ------------Starting TC_002_LoginTest -----------
+2025-08-31 11:43:53 INFO  TC002_LoginTest:41 - --------------Finished TC_002_LoginTest----------
+2025-08-31 11:47:11 INFO  TC001_AccountRegistrationTest:21 - --------started TC001_AccountRegistrationTest----------------
+2025-08-31 11:47:12 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-08-31 11:47:12 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-08-31 11:47:12 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-08-31 11:47:15 INFO  TC001_AccountRegistrationTest:45 - Validating expected message...
+2025-08-31 11:47:15 INFO  TC001_AccountRegistrationTest:56 - -------------finished TC001_AccountRegistrationTest---------
+2025-08-31 11:47:18 INFO  TC002_LoginTest:16 - ------------Starting TC_002_LoginTest -----------
+2025-08-31 11:47:20 INFO  TC002_LoginTest:41 - --------------Finished TC_002_LoginTest----------
